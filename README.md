@@ -24,6 +24,7 @@ You can find all the books listed below in [**book**](/book) folder of this repo
 * Deep Learning with Theano [[Download]](/book/Deep%20Learning%20with%20Theano.pdf)
 * Fundamentals of Deep Learning [[Download]](/book/Fundamentals%20of%20Deep%20Learning.pdf)
 * Grokking Deep Learning - MEAP v10 [[Download]](/book/Grokking%20Deep%20Learning%20-%20MEAP%20v10.pdf)
+* Introduction to Deep Learning Business Applications for Developers [[Download]](/book/Introduction%20to%20Deep%20Learning%20Business%20Applications%20for%20Developers.pdf)
 * Java Deep Learning Essentials [[Download]](/book/Java%20Deep%20Learning%20Essentials.pdf)
 * Pro Deep Learning with TensorFlow - A Mathematical Approach to Advanced Artificial Intelligence in Python [[Download]](/book/Pro%20Deep%20Learning%20with%20TensorFlow%20-%20A%20Mathematical%20Approach%20to%20Advanced%20Artificial%20Intelligence%20in%20Python.pdf)
 * Python - Deeper Insights into Machine Learning [[Download]](/book/Python%20-%20Deeper%20Insights%20into%20Machine%20Learning.pdf)
